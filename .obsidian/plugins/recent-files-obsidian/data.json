@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "16-08-25 1444 - Honey Garlic Chicken Mac & Cheese",
+      "path": "04 - Permanent/02 - Recipes/16-08-25 1444 - Honey Garlic Chicken Mac & Cheese.md"
+    },
+    {
       "basename": "29-10-2024",
       "path": "6 - Daily Notes/29-10-2024.md"
     },
@@ -10,5 +14,7 @@
     }
   ],
   "omittedPaths": [],
-  "omittedTags": []
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
 }
