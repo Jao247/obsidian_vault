@@ -211,6 +211,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -220,7 +221,6 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "smart-random-note:Open Random Note from Search": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-spaced-repetition:Review flashcards": false,
@@ -230,61 +230,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "12f1bb81827daeb7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2c1d35135ee9e001",
-        "type": "window",
-        "children": [
-          {
-            "id": "051ce5c4d9c4f207",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f51fa2b6e07ce344",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "04 - Permanent/02 - Recipes/17-08-25 1524 - Popcorn Chicken Potato Bowls.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "17-08-25 1524 - Popcorn Chicken Potato Bowls"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1920,
-        "y": 0,
-        "width": 1920,
-        "height": 2160,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f2daa594e2e3d081",
+  "active": "d4fb4c23676de8a7",
   "lastOpenFiles": [
+    "04 - Permanent/02 - Recipes/17-08-25 1524 - Popcorn Chicken Potato Bowls.md",
     "04 - Permanent/02 - Recipes/16-08-25 1444 - Honey Garlic Chicken Mac & Cheese.md",
     "05 - Fleeting/Shopping List.md",
     "05 - Fleeting/Meal Plan.md",
-    "04 - Permanent/02 - Recipes/17-08-25 1524 - Popcorn Chicken Potato Bowls.md",
     "00 - Maps of Content/Recipies.base",
     "05 - Fleeting/20-08-25 2110 - Bowl weights.md",
     "02 - Areas/04 - Factorio/Factorio To-Do List Kanban.md",

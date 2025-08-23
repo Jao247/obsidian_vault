@@ -26,6 +26,7 @@
     "date": "datetime",
     "linked tags": "multitext",
     "linked-tags": "multitext",
-    "scyrus-race": "multitext"
+    "scyrus-race": "multitext",
+    "excalidraw-embed-md": "checkbox"
   }
 }
