@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "Styling",
+    "Daily Themes",
+    "Colored Sidebar"
+  ],
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
+}

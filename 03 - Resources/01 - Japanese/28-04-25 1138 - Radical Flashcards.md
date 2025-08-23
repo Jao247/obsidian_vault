@@ -1,0 +1,1007 @@
+---
+date: 2025-04-28T11:38
+tags:
+  - JP/Radicals
+linked-tags:
+  - "[[Japanese]]"
+  - "[[Flashcards]]"
+cssclasses: []
+---
+# 一
+?
+- Stroke Count: 
+	- 1
+- Position: 
+- Meaning:
+	- one
+	- horizontal stroke
+- Reading: 
+	- いち
+- Notes:
+- Importance: 
++++
+# ⼁
+?
+- Stroke Count: 
+	- 1
+- Position: 
+- Meaning:
+	- vertical stroke
+- Reading: 
+	- たてぼう
+- Notes:
+- Importance: 
++++
+# ⼂
+?
+- Stroke Count: 
+	- 1
+- Position: 
+- Meaning:
+	- dot
+- Reading:
+	- てん
+- Notes:
+- Importance: 
++++
+# ⼃
+?
+- Stroke Count: 
+	- 1
+- Position: 
+- Meaning:
+	- diagonal sweeping stroke
+- Reading:
+	- の
+- Notes:
+- Importance: 
++++
+![[Drawing 28-04-2025 11.54]]
+?
+- Stroke Count: 
+	- 1
+- Position: 
+	- かんむり
+- Meaning:
+	- diagonal sweeping stroke
+- Reading:
+	- のかんむり
+- Notes:
+- Importance: 
++++
+# ⼄
+?
+- Stroke Count: 
+	- 1
+- Position: 
+- Meaning:
+	- the second
+- Reading:
+	- おつ
+- Notes:
+- Importance: 
++++
+# ⺃
+?
+- Stroke Count: 
+	- 1
+- Position: 
+- Meaning:
+	- the second
+- Reading:
+	- おつ
+- Notes:
+	- A varient of ⼄
+- Importance: 
++++
+# ⼅
+?
+- Stroke Count: 
+	- 1
+- Position: 
+- Meaning:
+	- vertical stroke with a hook
+- Reading:
+	- はねぼう
+- Notes:
+- Importance: 
++++
+# 二
+?
+- Stroke Count: 
+	- 2
+- Position: 
+- Meaning:
+	- two
+- Reading:
+	- に
+- Notes:
+- Importance: 
++++
+# ⼇
+?
+- Stroke Count: 
+	- 2
+- Position:
+	- かんむり
+- Meaning:
+	- lid, top
+- Reading:
+	- なべぶた
+- Notes:
+- Importance: 
+	- important
++++
+# 人
+?
+- Stroke Count: 
+	- 2
+- Position: 
+- Meaning:
+	- person
+- Reading:
+	- ひと
+- Notes:
+- Importance: 
++++
+# ⺅
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- へん
+- Meaning:
+	- person
+- Reading:
+	- にんげん
+- Notes:
+	- A variant of 人
+- Importance: 
+	- important
++++
+# 𠆢
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- かんむり
+- Meaning:
+	- person
+- Reading:
+	- ひとやね
+- Notes:
+	- a variant of 人
+- Importance: 
+	- important
++++
+# ⼉
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- あし
+- Meaning:
+	- human legs
+- Reading:
+	- ひとあし
+- Notes:
+- Importance: 
+	- important
++++
+# 入
+?
+- Stroke Count:
+	- 2
+- Position: 
+- Meaning:
+	- to enter
+- Reading:
+	- いる
+- Notes:
+- Importance: 
++++
+# 八
+?
+- Stroke Count: 
+	- 2
+- Position: 
+- Meaning:
+	- eight
+- Reading:
+	- はち
+- Notes:
+- Importance: 
++++
+![[28-04-25 1138 - Flashcards 28-04-2025 16.12]]
+?
+- Stroke Count: 
+	- 2
+- Position: 
+- Meaning:
+	- eight
+- Reading:
+	- はちがしら
+- Notes:
+	- A variant of 八
+- Importance: 
++++
+# ⼌
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- けいがまえ
+- Meaning:
+	- to enclose
+- Reading:
+	- けいがまえ
+- Notes:
+- Importance: 
++++
+# ⼍
+?
+- Stroke Count: 
+	- 2
+- Position:
+	- かんむり
+- Meaning:
+	- cover
+	- crown
+- Reading:
+	- わかんむり
+- Notes:
+- Importance: 
+	- important
++++
+# ⼎
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- へん
+- Meaning:
+	- ice
+- Reading:
+	- にすい
+- Notes:
+- Importance: 
++++
+# ⼏
+?
+- Stroke Count: 
+	- 2
+- Position:
+	- つくり
+- Meaning:
+	- table
+- Reading:
+	- きにょう
+- Notes:
+- Importance: 
++++
+# ⺇
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- かんむり
+- Meaning:
+	- wind
+- Reading:
+	- かぜかんむり
+- Notes:
+	- A variant of ⼏ (きにょう)
+- Importance: 
++++
+# ⼐
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- にょう
+- Meaning:
+	- container, open box
+- Reading:
+	- かんにょう
+- Notes:
+- Importance: 
++++
+# ⼑
+?
+- Stroke Count: 
+	- 2
+- Position: 
+- Meaning:
+	- knife
+	- sword
+- Reading:
+	- かたな
+- Notes:
+- Importance: 
++++
+# ⺉
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- つくり
+- Meaning:
+	- knife 
+	- sword
+- Reading:
+	- りっとう
+- Notes:
+	- a variant of 刀 (かたな)
+- Importance: 
+	- important
++++
+# 力
+?
+- Stroke Count:
+	- 2
+- Position:
+- Meaning:
+	- power
+- Reading:
+	- ちから
+- Notes:
+- Importance: 
++++
+# ⼓
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- つつみがまえ
+- Meaning:
+	- to wrap
+- Reading:
+	- つつみがまえ
+- Notes:
+- Importance: 
++++
+# ⼔
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- つくり
+- Meaning:
+	- spoon
+- Reading:
+	- さじ
+- Notes:
+- Importance: 
++++
+# ⼕
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- はこがまえ
+- Meaning:
+	- box
+- Reading:
+	- はこがまえ
+- Notes:
+- Importance: 
++++
+# ⼖
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- はこがまえ
+- Meaning:
+	- to conceal
+	- hide
+- Reading:
+	- かくしがまえ
+- Notes:
+- Importance: 
++++
+# 十
+?
+- Stroke Count: 
+	- ten
+- Position:
+- Meaning:
+	- ten
+- Reading:
+	- じゅう
+- Notes:
+- Importance: 
++++
+# 卜
+?
+- Stroke Count: 
+	- 2
+- Position: 
+- Meaning:
+	- oracle
+- Reading:
+	- ぼく
+- Notes:
+- Importance: 
++++
+# ⼙
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- つくり
+- Meaning:
+	- stamp
+	- seal
+- Reading:
+	- ふしづくり
+- Notes:
+- Importance: 
++++
+# ⼚
+?
+- Stroke Count: 
+	- 2
+- Position: 
+	- たれ
+- Meaning:
+	- cliff
+- Reading:
+	- がんだれ
+- Notes:
+- Importance: 
++++
+# ム
+?
+- Stroke Count:
+	- 2
+- Position:
+- Meaning:
+	- private
+	- Katakana Mu
+- Reading:
+	- む
+- Notes:
+- Importance: 
++++
+# 又
+?
+- Stroke Count: 
+	- 2
+- Position: 
+- Meaning:
+	- again
+	- right hand
+- Reading:
+	- また
+- Notes:
+- Importance: 
++++
+# 口
+?
+- Stroke Count:
+	- 3
+- Position: 
+- Meaning:
+	- mouth
+- Reading:
+	- くち
+- Notes:
+- Importance: 
++++
+# 卩
+?
+- Stroke Count: 
+	- 3
+- Position: 
+	- へん
+- Meaning:
+	- mouth
+- Reading:
+	- くちへん
+- Notes:
+- Importance: 
+	- important
++++
+# ⼞
+?
+- Stroke Count: 
+	- 3
+- Position: 
+	- くにがまえ
+- Meaning:
+	- border
+	- territorial boundaries
+- Reading:
+	- くにがまえ
+- Notes:
+- Importance: 
+	- important
++++
+# 土
+?
+- Stroke Count: 
+	- 3
+- Position: #ToDo
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++
+# 
+?
+- Stroke Count: 
+- Position: 
+- Meaning:
+- Reading:
+- Notes:
+- Importance: 
++++

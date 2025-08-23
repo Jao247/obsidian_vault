@@ -1,0 +1,34 @@
+.important {
+	color:red;
+	font-weight:bold;
+}
+
+.page-tan {
+	background-color: #b1944e;
+}
+
+.fac-quality2 {
+    color: greenyellow;
+}
+
+.fac-quality3 {
+    color: cyan;
+}
+
+.fac-quality4 {
+    color: magenta;
+}
+
+.fac-quality5 {
+    color: orange;
+}
+
+.flashcards :is(h1, .HyperMD-header.HyperMD-header-1)  {
+    font-size: 60px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.flashcards {
+    text-align: center;
+}

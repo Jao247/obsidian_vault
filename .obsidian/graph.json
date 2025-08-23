@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"99 - Meta/02 - Tags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4507246
+      }
+    },
+    {
+      "query": "path:\"02 - Areas/01 - Japanese\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"03 - Resources/01 - Japanese\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"04 - Permanent\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9717496
+      }
+    },
+    {
+      "query": "path:\"01 - Projects\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5366249
+      }
+    },
+    {
+      "query": "path:\"02 - Areas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5551864
+      }
+    },
+    {
+      "query": "path:\"06 - Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15028123
+      }
+    },
+    {
+      "query": "path:\"05 - Fleeting\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13193965
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 1.5,
+  "nodeSizeMultiplier": 0.738020833333333,
+  "lineSizeMultiplier": 1.171875,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5359795996225941,
+  "close": false
+}

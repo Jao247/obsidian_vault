@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "d0abb7a6aa64ab00",
+    "type": "split",
+    "children": [
+      {
+        "id": "77ba457682d5780f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c1e3a1346b930b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c65642b636795f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e13e2e730651924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "854eae6229e7ac0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d954e5a726ceb722",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb781d194e346169",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "35d390842f09892b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5
+  },
+  "right": {
+    "id": "831a8b9b2853adf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4d187ff259b47f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8709934d4f409bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1a7615f0efcf4c1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e5d9162e3f3991ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "811492266ec8cc88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "57b17b7d928e7a6e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "c5c60e5012880e11",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "dfa42004ce498e8f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "aee844916dde6f7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59f62c960179718e",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 525.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "57b17b7d928e7a6e",
+  "lastOpenFiles": [
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0037 - Sicombir.md",
+    "01 - Projects/Scyrus (Magic World)/20-04-25 1920 - Timeline.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/29-01-25 1522 - Gods Overview.md",
+    "99 - Meta/02 - Tags/Scyrus - Non-Playable Races.md",
+    "01 - Projects/Scyrus (Magic World)/02 - Races/02 - Non-Playable/13-02-25 1400 - Demi-Dragons.md",
+    "99 - Meta/02 - Tags/TTRPG.md",
+    "06 - Daily Notes/02 - 2025/04 - Apr/20-04-2025.md",
+    "06 - Daily Notes/02 - 2025/02 - Feb/05-02-2025.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0036 - Madren.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/29-01-25 1628 - Thrandeer.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/01 - Primordial Gods/06-02-25 2355 - Ardirus.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/01 - Primordial Gods/07-02-25 0004 - Conlaris.md",
+    "01 - Projects/Scyrus (Magic World)/02 - Races/07-02-25 0053 - Races Overview.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/04 - Lesser Gods/07-02-25 0022 - Alcionn.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0038 - Glaciotus.md",
+    "99 - Meta/29-01-25 1522 - Gods Overview 20-04-2025 20.00.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/29-01-25 1630 - Magnomin.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0032 - Terun.md",
+    "99 - Meta/29-01-25 1522 - Gods Overview 20-04-2025 20.00.svg",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/Drawing 20-04-2025 19.58.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/29-01-25 1617 - Pyrona.md",
+    "01 - Projects/Scyrus (Magic World)/04 - Characters/13-02-25 1107 - Inalok Astle.md",
+    "01 - Projects/Scyrus (Magic World)/05 - World Building/28-03-25 2236 - Scyrus Dungeons.md",
+    "01 - Projects/Scyrus (Magic World)/04 - Characters/20-04-25 1909 - Ser Albricht Ryen.md",
+    "01 - Projects/Scyrus (Magic World)/04 - Characters/22-02-25 1857 - Zerxire Sol-Abarrus.md",
+    "01 - Projects/Scyrus (Magic World)/05 - World Building/01 - Nations/01 - Towns/20-04-25 1905 - Atashinoa.md",
+    "01 - Projects/Scyrus (Magic World)/05 - World Building/01 - Nations/01 - Towns/28-03-25 2351 - Amaurot.md",
+    "06 - Daily Notes/02 - 2025/04 - Apr",
+    "03 - Resources/04 - Web Sources",
+    "02 - Areas/01 - Japanese/01 - Notion Flash Cards",
+    "01 - Projects/Scyrus (Magic World)/05 - World Building/01 - Nations/01 - Towns",
+    "01 - Projects/Scyrus (Magic World)/05 - World Building/01 - Nations",
+    "01 - Projects/Scyrus (Magic World)/05 - World Building",
+    "01 - Projects/Scyrus (Magic World)/02 - Races/01 - Playable",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/04 - Lesser Gods",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/01 - Primordial Gods",
+    "06 - Daily Notes/02 - 2025/04 - Apr",
+    "02 - Areas/01 - Japanese/Hiragana (Drawing).svg",
+    "02 - Areas/06 - TUNIC/22-11-24 1543 TUNIC Golden Path.svg",
+    "02 - Areas/06 - TUNIC/02-11-2024 00.41 - TUNIC (DOOR).svg",
+    "05 - Fleeting/09-11-24 2329.svg",
+    "99 - Meta/Pasted image 20241029215228.png",
+    "Excalidraw/Drawing 02-11-2024 00.41.svg",
+    "Excalidraw/Drawing 02-11-2024 00.18.svg",
+    "99 - Meta/01 - Template/SRC_TEMPLATE - Drawing.svg",
+    "05 - Fleeting/31-10-24 2206 Speed Modules.svg",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

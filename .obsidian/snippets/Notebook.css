@@ -1,0 +1,161 @@
+:root {
+    --pen-white: #edf1fc;
+    --pen-gray: #5f5d58;
+    --pen-black: #26241f;
+    --pen-red: #e14a49;
+    --pen-green: #15b64f;
+    --pen-blue: #3f76ed;
+    --pen-light-blue: #54b6f8;
+    --pen-purple: #9b4ff0;
+
+    --neutral-pen-black: #272727;
+    --neutral-pen-black-trans: #27272722;
+
+    --page-white: #ffffff;
+    --page-manila: #f3deaf;
+    --page-blue: #3f76ed;
+
+    @import url('https://fonts.googleapis.com/css2?family=Itim');
+
+    --grid-size: 32px;
+    --line-height: 24px;
+}
+
+.recolor-images img {
+    filter: var(--image-effect);
+}
+
+/* change <cssclasshere> for each snippet & note */
+.markdown-source-view.page-manila .cm-scroller,
+.markdown-source-view.page-white .cm-scroller,
+.markdown-source-view.page-blueprint .cm-scroller,
+.markdown-preview-view.page-manila,
+.markdown-preview-view.page-white,
+.markdown-preview-view.page-blueprint {
+    font-family: 'Random Wednesday';
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* revert inline-title and properties font <cssclasshere> note(s) */
+.page-manila :is(.inline-title, .metadata-container),
+.page-white :is(.inline-title, .metadata-container),
+.page-blueprint :is(.inline-title, .metadata-container)
+{
+    font-family: var(--font-text);
+    font-size: 16px;
+}
+
+.page-manila,
+.page-white,
+.page-blueprint {
+    --text-normal: var(--accent-color);
+    --text-muted: var(--accent-color);
+    --text-faint: var(--accent-color);
+    --h1-color: var(--accent-color);
+    --h2-color: var(--accent-color);
+    --h3-color: var(--accent-color);
+    --h4-color: var(--accent-color);
+    --h5-color: var(--accent-color);
+    --h6-color: var(--accent-color);
+    --link-color: var(--pen-blue);
+    --link-color-hover: var(--pen-light-blue);
+    --link-unresolved-color: var(--pen-red);
+
+    --hr-color: var(--accent-color);
+    --blockquote-border-color: var(--accent-color);
+    --embed-border-left: 2px solid var(--accent-color);
+    --collapse-icon-color-collapsed: var(--accent-color);
+    --checkbox-color: var(--accent-color);
+    --checkbox-marker-color: var(--accent-color);
+    --checkbox-color-hover: var(--accent-color);
+    --checkbox-border-color: var(--accent-color);
+    --checklist-done-color: var(--accent-color);
+    --list-marker-color: var(--accent-color);
+
+    --interactive-accent: var(--accent-color);
+    --metadata-label-text-color: var(--accent-color);
+    --metadata-input-text-color: var(--accent-color);
+    --tag-color: var(--accent-color);
+    --tag-background: var(--accent-color-trans);
+    --pill-cover-hover: color-mix(in srgb, var(--accent-color) 60%, transparent);
+    --background-modifier-border-focus: var(--accent-color);
+    --background-modifier-border: var(--accent-color-trans);
+    --background-modifier-hover: color-mix(in srgb, var(--accent-color) 60%, transparent);
+
+    color: var(--accent-color);
+    background-color: var(--page-color);
+}
+
+.page-manila {
+    --page-color: var(--page-manila);
+    --accent-color: var(--pen-black);
+    --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+    --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%) saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+    color-scheme: light;
+}
+.page-manila {
+    --h1-color: var(--pen-red);
+    --h1-size: 48px;
+    --h2-color: var(--pen-red);
+    --h2-size: 44px
+}
+.embed-manila img {
+    background-color: var(--page-manila);
+}
+
+.page-lined {
+    background-image: linear-gradient(
+        0deg,
+        transparent 0px,
+        var(--accent-color-trans) 1px,
+        var(--accent-color-trans) 2px,
+        transparent 3px
+    );
+    background-size: var(--line-height) var(--line-height);
+}
+
+.page-white {
+    --page-color: var(--page-white);
+    --accent-color: var(--neutral-pen-black);
+    --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+    --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%) saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+    color-scheme: light;
+}
+.embed-white img {
+    background-color: var(--page-white);
+}
+
+.page-blueprint {
+    --page-color: var(--page-blue);
+    --accent-color: var(--pen-white);
+    --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+    --image-effect: brightness(0) saturate(100%) invert(89%) sepia(1%) saturate(2714%) hue-rotate(196deg) brightness(107%) contrast(98%);
+    color-scheme: dark;
+
+    --link-color: color-mix(in srgb, var(--pen-light-blue) 60%, var(--pen-white));
+    --link-color-hover: color-mix(in srgb, var(--pen-light-blue) 20%, var(--pen-white));
+
+}
+.embed-blueprint img {
+    background-color: var(--page-blue);
+}
+
+.page-grid {
+    background-image: linear-gradient(
+        0deg,
+        transparent 0px,
+        var(--accent-color-trans) 1px,
+        var(--accent-color-trans) 2px,
+        transparent 3px
+    ),
+    linear-gradient(
+        90deg,
+        transparent calc(var(--grid-size) - 3px),
+        var(--accent-color-trans) calc(var(--grid-size) - 2px),
+        var(--accent-color-trans) calc(var(--grid-size) - 1px),
+        transparent var(--grid-size)
+    );
+    background-size: var(--grid-size) var(--grid-size)
+}
+

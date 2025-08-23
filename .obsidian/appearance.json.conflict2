@@ -1,0 +1,15 @@
+{
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "Styling",
+    "Daily Themes",
+    "Colored Sidebar",
+    "Notebook"
+  ],
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "cssTheme": "Vanilla AMOLED",
+  "showViewHeader": true,
+  "showRibbon": true
+}

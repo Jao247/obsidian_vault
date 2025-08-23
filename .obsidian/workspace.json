@@ -1,0 +1,354 @@
+{
+  "main": {
+    "id": "0bfc3b70c77ae2ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e289a927aaf3a2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2daa594e2e3d081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Permanent/02 - Recipes/16-08-25 1444 - Honey Garlic Chicken Mac & Cheese.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "16-08-25 1444 - Honey Garlic Chicken Mac & Cheese"
+            }
+          },
+          {
+            "id": "9acfa45649970bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Fleeting/Shopping List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Shopping List"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "938fa791fd38e21c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f0d8ca6ac92cee8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9259d0ff99fbc6b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "517b8c7d42dd3d5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ToDo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5331ecfb2a8e3939",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f795910000c4096f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405.5
+  },
+  "right": {
+    "id": "d8d9c58f5e2bb6f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "48dfca0337ca6647",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd07cc6e8e028a0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ae8f7bc553480458",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "85e19427a1e672e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e8fb4aa64a0e22f9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "72c0ba3341f79a4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05 - Fleeting/Shopping List.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Shopping List"
+            }
+          },
+          {
+            "id": "424d5ad8b13a8c04",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "ec0d5f5603b58bd7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "d4fb4c23676de8a7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 418.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "floating": {
+    "id": "12f1bb81827daeb7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2c1d35135ee9e001",
+        "type": "window",
+        "children": [
+          {
+            "id": "051ce5c4d9c4f207",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f51fa2b6e07ce344",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04 - Permanent/02 - Recipes/17-08-25 1524 - Popcorn Chicken Potato Bowls.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "17-08-25 1524 - Popcorn Chicken Potato Bowls"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1920,
+        "y": 0,
+        "width": 1920,
+        "height": 2160,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d4fb4c23676de8a7",
+  "lastOpenFiles": [
+    "05 - Fleeting/Meal Plan.md",
+    "05 - Fleeting/Shopping List.md",
+    "04 - Permanent/02 - Recipes/17-08-25 1524 - Popcorn Chicken Potato Bowls.md",
+    "00 - Maps of Content/Recipies.base",
+    "05 - Fleeting/20-08-25 2110 - Bowl weights.md",
+    "02 - Areas/04 - Factorio/Factorio To-Do List Kanban.md",
+    "02 - Areas/04 - Factorio/31-10-24 2206 - Speed Modules.md",
+    "02 - Areas/04 - Factorio/04-11-24 1252 Train Logistics.md",
+    "02 - Areas/04 - Factorio/03 - 2025 Personal Game/24-05-2025 1811 - To-Do List 2025.md",
+    "02 - Areas/04 - Factorio/02 - Fulgora/Space Age - Fulgora.md",
+    "02 - Areas/04 - Factorio/02 - Fulgora/Bus System.md",
+    "02 - Areas/04 - Factorio/02 - Fulgora/03-11-24 0205 - Fulgoran Exports.md",
+    "02 - Areas/04 - Factorio/02 - Fulgora/31-10-24 2133 - Scrap Recycling.md",
+    "02 - Areas/04 - Factorio/01 - Nauvis/Red Chips.md",
+    "02 - Areas/04 - Factorio/01 - Nauvis/Green Chips v2.md",
+    "03 - Resources/01 - Japanese/28-04-25 1138 - Radical Flashcards.md",
+    "02 - Areas/01 - Japanese/28-04-25 1138 - Flashcards.md",
+    "01 - Projects/Scyrus (Magic World)/04 - Characters/22-02-25 1857 - Zerxire Sol-Abarrus.md",
+    "03 - Resources/01 - Japanese/28-04-25 1105 - Radicals.md",
+    "03 - Resources/01 - Japanese/23-03-25 1039 - Rendaku.md",
+    "03 - Resources/01 - Japanese/09-12-24 1441 て-form.md",
+    "03 - Resources/02 - Game Development/Animation Hit Detection.md",
+    "03 - Resources/02 - Game Development/Royal Skies - UE5 Animation Montage Collisions.md",
+    "03 - Resources/02 - Game Development/Projectiles - Set up.md",
+    "03 - Resources/02 - Game Development/Enemy AI Masterclass playlist.md",
+    "03 - Resources/03 - FFXIV/30-11-24 1149 FFXIV Macros.md",
+    "00 - Maps of Content/Scyrus.base",
+    "99 - Meta/01 - Template/SRC_TEMPLATE - Drawing.svg",
+    "04 - Permanent/02 - Recipes/~syncthing~16-08-25 1444 - Honey Garlic Chicken Mac & Cheese.md.tmp",
+    "04 - Permanent/02 - Recipes/~syncthing~13-08-25 2317 - Grilled Cheese Breakfast Burritos.md.tmp",
+    "06 - Daily Notes/02 - 2025/08 - August",
+    "05 - Fleeting/~syncthing~Shopping List.md.tmp"
+  ]
+}

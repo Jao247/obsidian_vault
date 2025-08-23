@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "05 - Fleeting",
+  "readableLineLength": false,
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "99 - Meta",
+  "showInlineTitle": true,
+  "showLineNumber": false,
+  "tabSize": 4
+}

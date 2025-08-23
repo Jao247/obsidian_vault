@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "53fcd559c7f2e324",
+    "type": "split",
+    "children": [
+      {
+        "id": "019b09fdc19fb1ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed2f97fdefae64a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Permanent/02 - Recipes/24-05-25 1804 - Overnight Oats Base.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "24-05-25 1804 - Overnight Oats Base"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "992889a6e738dd13",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c72f6d5beb944a12",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "94cd63a9d0294db2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Complete",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f1bed745fe7123bf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d45c10f794679a76",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "66310c9f01a9aff4",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7e4547398b4a8034",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "28917930e22dbfc7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "6cb412dc8e1dcc72",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "0cd32a708afb0346",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d74f88cc2acd7d6c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "04 - Permanent/02 - Recipes/24-05-25 1804 - Overnight Oats Base.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "ffe39070e6e3168f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ed2f97fdefae64a",
+  "lastOpenFiles": [
+    "05 - Fleeting/01-07-25 1352 - shopping list.md",
+    "04 - Permanent/02 - Recipes/22-05-25 1703 - Cinnamon Apple Snack.md",
+    "03 - Resources/29-10-24 2335 - Mihon sources.md",
+    "05 - Fleeting/06-05-25 2235 - Quotes.md",
+    "05 - Fleeting/08-06-25 1950.md",
+    "05 - Fleeting/19-05-25 1518 - Shopping List.md",
+    "02 - Areas/06 - TUNIC/09-11-24 2329.md",
+    "06 - Daily Notes/02 - 2025/03 - Mar/12-03-2025.md",
+    "03 - Resources/01 - Japanese/09-12-24 1441 て-form.md",
+    "02 - Areas/06 - TUNIC/02-11-2024 00.41 - TUNIC (DOOR).md",
+    "01 - Projects/Scyrus (Magic World)/20-04-25 1920 - Timeline.md",
+    "01 - Projects/Scyrus (Magic World)/02 - Races/07-02-25 0053 - Races Overview.md",
+    "01 - Projects/Scyrus (Magic World)/05 - World Building/28-03-25 2231 - World Threat.md",
+    "01 - Projects/Scyrus (Magic World)/05 - World Building/28-03-25 2236 - Scyrus Dungeons.md",
+    "01 - Projects/Scyrus (Magic World)/03 - Factions/18-04-25 1840 - Apocalypse.md",
+    "01 - Projects/Scyrus (Magic World)/04 - Characters/13-02-25 1107 - Inalok Astle.md",
+    "99 - Meta/02 - Tags/Scyrus.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/29-01-25 1522 - Gods Overview.md",
+    "99 - Meta/29-01-25 1522 - Gods Overview 20-04-2025 20.00.svg",
+    "99 - Meta/29-01-25 1522 - Gods Overview 20-04-2025 20.00.md",
+    "06 - Daily Notes/02 - 2025/04 - Apr/20-04-2025.md",
+    "06 - Daily Notes/02 - 2025/04 - Apr/17-04-2025.md",
+    "06 - Daily Notes/02 - 2025/04 - Apr/16-04-2025.md",
+    "02 - Areas/01 - Japanese/01 - Notion Flash Cards/16-04-25 1456 - JP N5 Vocab No. 5.md",
+    "01 - Projects/Scyrus (Magic World)/05 - World Building/01 - Nations/01 - Towns/20-04-25 1905 - Atashinoa.md",
+    "01 - Projects/Scyrus (Magic World)/04 - Characters/20-04-25 1909 - Ser Albricht Ryen.md",
+    "02 - Areas/02-03-25 1541 - London.md",
+    "05 - Fleeting/01 - Drawings",
+    "99 - Meta/AIB-Personal-Loan-Info-Sheet.pdf",
+    "01 - Projects/Spring 2025",
+    "02 - Areas/05 - Crow Country",
+    "99 - Meta/01 - Template/SRC_TEMPLATE - Drawing.svg",
+    "99 - Meta/Pasted image 20241029215228.png",
+    "Excalidraw"
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "d0abb7a6aa64ab00",
+    "type": "split",
+    "children": [
+      {
+        "id": "f463e1c2f4556878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e6e34e43e90bd1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0036 - Madren.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "07-02-25 0036 - Madren"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c65642b636795f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e13e2e730651924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "854eae6229e7ac0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d954e5a726ceb722",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb781d194e346169",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "35d390842f09892b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "831a8b9b2853adf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4d187ff259b47f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8709934d4f409bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1a7615f0efcf4c1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e5d9162e3f3991ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "811492266ec8cc88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0036 - Madren.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 07-02-25 0036 - Madren"
+            }
+          },
+          {
+            "id": "57b17b7d928e7a6e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "c5c60e5012880e11",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "dfa42004ce498e8f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "aee844916dde6f7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59f62c960179718e",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 525.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7e6e34e43e90bd1c",
+  "lastOpenFiles": [
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0038 - Glaciotus.md",
+    "01 - Projects/Scyrus (Magic World)/20-04-25 1920 - Timeline.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/29-01-25 1630 - Magnomin.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/29-01-25 1522 - Gods Overview.md",
+    "99 - Meta/29-01-25 1522 - Gods Overview 20-04-2025 20.00.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0035 - Stilgun.md",
+    "05 - Fleeting/28-04-25 1138 - Flashcards.md",
+    "99 - Meta/28-04-25 1138 - Flashcards 28-04-2025 16.32.md",
+    "99 - Meta/28-04-25 1138 - Flashcards 28-04-2025 16.12.md",
+    "05 - Fleeting/01 - Drawings/Drawing 28-04-2025 11.54.md",
+    "99 - Meta/Pasted image 20250428115634.png",
+    "99 - Meta/Pasted image 20250428160351.png",
+    "99 - Meta/Pasted image 20250428112552.png",
+    "99 - Meta/Pasted image 20250428112544.png",
+    "99 - Meta/Pasted image 20250428112529.png",
+    "99 - Meta/Pasted image 20250428112520.png",
+    "99 - Meta/Pasted image 20250428112451.png",
+    "99 - Meta/Pasted image 20250428112444.png",
+    "99 - Meta/Pasted image 20250428112457.png",
+    "99 - Meta/Pasted image 20250428112436.png",
+    "04 - Permanent/29-03-25 1233 - Flashcard formatting.md",
+    "99 - Meta/01 - Template/SRC_TEMPLATE - Drawing.md",
+    "05 - Fleeting/01 - Drawings",
+    "03 - Resources/01 - Japanese/28-04-25 1105 - Radicals.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0037 - Sicombir.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0036 - Madren.md",
+    "99 - Meta/02 - Tags/Scyrus - Non-Playable Races.md",
+    "01 - Projects/Scyrus (Magic World)/02 - Races/02 - Non-Playable/13-02-25 1400 - Demi-Dragons.md",
+    "99 - Meta/02 - Tags/TTRPG.md",
+    "06 - Daily Notes/02 - 2025/04 - Apr/20-04-2025.md",
+    "06 - Daily Notes/02 - 2025/02 - Feb/05-02-2025.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/29-01-25 1628 - Thrandeer.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/01 - Primordial Gods/06-02-25 2355 - Ardirus.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/01 - Primordial Gods/07-02-25 0004 - Conlaris.md",
+    "01 - Projects/Scyrus (Magic World)/02 - Races/07-02-25 0053 - Races Overview.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/04 - Lesser Gods/07-02-25 0022 - Alcionn.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0032 - Terun.md",
+    "06 - Daily Notes/02 - 2025/04 - Apr",
+    "03 - Resources/04 - Web Sources",
+    "02 - Areas/01 - Japanese/01 - Notion Flash Cards",
+    "01 - Projects/Scyrus (Magic World)/05 - World Building/01 - Nations/01 - Towns",
+    "01 - Projects/Scyrus (Magic World)/05 - World Building/01 - Nations",
+    "01 - Projects/Scyrus (Magic World)/05 - World Building",
+    "01 - Projects/Scyrus (Magic World)/02 - Races/01 - Playable",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/04 - Lesser Gods",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/01 - Primordial Gods",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

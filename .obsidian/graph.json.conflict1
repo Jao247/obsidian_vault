@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"01 - Projects/Scyrus (Magic World)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5769557
+      }
+    },
+    {
+      "query": "path:\"02 - Areas/01 - Japanese\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"02 - Areas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1793401
+      }
+    },
+    {
+      "query": "path:\"03 - Resources\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2909416
+      }
+    },
+    {
+      "query": "path:\"04 - Permanent\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10048224
+      }
+    },
+    {
+      "query": "path:\"05 - Fleeting\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15625706
+      }
+    },
+    {
+      "query": "path:\"06 - Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701214
+      }
+    },
+    {
+      "query": "path:\"07 - Archives\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6953755
+      }
+    },
+    {
+      "query": "path:\"99 - Meta/02 - Tags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65390
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 0.9421875,
+  "lineSizeMultiplier": 2.00130208333333,
+  "collapse-forces": false,
+  "centerStrength": 0.567708333333333,
+  "repelStrength": 13.2291666666667,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.5119831898851663,
+  "close": true
+}

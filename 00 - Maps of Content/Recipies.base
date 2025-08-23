@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - note["linked-tags"].contains(link("11-07-25 0733 - Recipes", "Recipes"))
+    order:
+      - file.name
+      - linked-tags
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    cardSize: 380

@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "BoBxShapeSquare",
+      "BoBxsBox",
+      "BoBxCalendarEvent",
+      "BoBxsPencil",
+      "BoBxsFile"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "01 - Projects": "BoBxsPen",
+  "02 - Areas": "BoBxsPackage",
+  "03 - Resources": "BoBxsBook",
+  "00 - Maps of Content": "BoBxGlobeAlt",
+  "04 - Permanent": "BoBxsFile",
+  "05 - Fleeting": "BoBxsPencil",
+  "06 - Daily Notes": "BoBxCalendarEvent",
+  "07 - Archives": "BoBxsBox",
+  "99 - Meta": "BoBxShapeSquare"
+}

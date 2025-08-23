@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "24a7e971b89ace2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7da135e9ab13df44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c49cbbc516643bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Fleeting/02-07-25 2338 - Charlie (PC).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02-07-25 2338 - Charlie (PC)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaa4cd197de03a99",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a98f848fedf3897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c68aa582c9e441c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "11f1a8b3f14c289f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5273b4bd2de493d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2805f2c113782e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a887684747fe03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f9d50b71a2eed52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Resources/04-11-24 1259 Factorio Train Logistics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 04-11-24 1259 Factorio Train Logistics"
+            }
+          },
+          {
+            "id": "550dcaabcf672339",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Resources/04-11-24 1259 Factorio Train Logistics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 04-11-24 1259 Factorio Train Logistics"
+            }
+          },
+          {
+            "id": "6ceff5c24d613a76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7dad53b9ea3274d7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "21ca4b2c16258500",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05 - Fleeting/02-07-25 2338 - Charlie (PC).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02-07-25 2338 - Charlie (PC)"
+            }
+          },
+          {
+            "id": "9c43a3cd686f8853",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "fd5407ddda5bb8b1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
+    }
+  },
+  "active": "c49cbbc516643bd9",
+  "lastOpenFiles": [
+    "01 - Projects/Relay Charlie/02-07-25 2332 - Quotes and Ideas.md",
+    "05 - Fleeting/02-07-25 2338 - Charlie (PC).md",
+    "99 - Meta/02 - Tags/02-07-25 2333 - Relay Charlie.md",
+    "01 - Projects/Scyrus (Magic World)/20-04-25 1920 - Timeline.md",
+    "01 - Projects/Relay Charlie",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0032 - Terun.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0034 - Aquasil.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/29-01-25 1522 - Gods Overview.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/29-01-25 1617 - Pyrona.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0035 - Stilgun.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0036 - Madren.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/29-01-25 1630 - Magnomin.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0038 - Glaciotus.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/01 - Primordial Gods/06-02-25 2355 - Ardirus.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/01 - Primordial Gods/07-02-25 0004 - Conlaris.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0037 - Sicombir.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/02 - Elemental/07-02-25 0033 - Aerogi.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/03 - Greater Gods/07-02-25 0042 - Alumitari.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/03 - Greater Gods/07-02-25 0043 - Skalturnin.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/03 - Greater Gods/07-02-25 0044 - Elderan.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/03 - Greater Gods/29-01-25 1515 - Siconis.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/03 - Greater Gods/07-02-25 0041 - Tesarlin.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/03 - Greater Gods/07-02-25 0040 - Un Ratim.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/03 - Greater Gods/07-02-25 0039 - Gul'Tchiin.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/04 - Lesser Gods/07-02-25 0052 - Insomnicus.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/04 - Lesser Gods/07-02-25 0051 - Rohtsa.md",
+    "01 - Projects/Scyrus (Magic World)/01 - Gods/04 - Lesser Gods/07-02-25 0050 - Qusan.md",
+    "02 - Areas/06 - TUNIC/22-11-24 1543 TUNIC Golden Path.svg",
+    "02 - Areas/06 - TUNIC/02-11-2024 00.41 - TUNIC (DOOR).svg",
+    "06 - Daily Notes/02 - 2025/06 - June/Untitled",
+    "06 - Daily Notes/02 - 2025/06 - June",
+    "05 - Fleeting/01 - Drawings/Drawing 28-04-2025 11.54.svg",
+    "02 - Areas/04 - Factorio/03 - 2025 Personal Game",
+    "04 - Permanent/02 - Recipes"
+  ]
+}
