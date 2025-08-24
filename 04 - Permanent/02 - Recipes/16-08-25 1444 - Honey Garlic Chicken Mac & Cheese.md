@@ -41,10 +41,11 @@ linked-tags:
 10. Add the cooked and drained macaroni pasta to the pan and mix well until all the pasta is coated.
 11. Divide the honey garlic chicken and the mac and cheese evenly into 4 equal meal prep servings & enjoy.
 
-17 Aug 2025
-- chicken - 754g - 188.5g per portion
-- pasta - 1074g - 268.5g per portion
-
-20 Aug 2025
-- Chicken - 650g - 162.5g per portion
-- Pasta - 1100g - 275g per portion
+|               | Chicken | Pasta  |
+| ------------- | ------- | ------ |
+| 17-08 Total   | 754g    | 1074g  |
+| 17-08 Portion | 188.5g  | 268.5g |
+| 20-08 Total   | 650g    | 1100g  |
+| 20-08 Portion | 162.5g  | 275g   |
+| 24-08 Total   |         |        |
+| 24-08 Portion |         |        |
