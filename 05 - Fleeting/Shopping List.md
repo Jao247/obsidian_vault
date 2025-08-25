@@ -3,20 +3,22 @@ tags:
   - Meal_Prepping
 ---
 ## Meats
-- [ ] Diced Chicken Breast 1.5 kg 
+- [x] Diced Chicken Breast 1.5 kg (700g)
+- [x] Diced Chicken Breast 1.5 kg (800g)
 ## Spices
-- [ ] Chilli Flakes   
-- [ ] Low Sodium Soy Sauce 90 ml 
-- [ ] Oregano
+- [x] Chilli Flakes   
+- [x] Low Sodium Soy Sauce 90 ml 
+- [x] Oregano
 - [ ] Mustard Powder
 - [ ] Celery Salt
-- [ ] Basil
-- [ ] White Pepper
+- [x] Basil
+- [x] White Pepper
 ## Veg
-- [ ] Diced Garlic Cloves 6
-- [ ] Potatoes 1.6kg
+- [x] Diced Garlic Cloves 6
+- [x] Potatoes 1.6kg
 ## Fridge
-- [ ] Light Cream Cheese 80 g   
-- [ ] Low Fat Grated Cheddar Cheese 100 g 
+- [x] Light Cream Cheese 80 g   
+- [x] Low Fat Grated Cheddar Cheese 100 g 
+- [x] Milk 2L4
 ## Misc
-- [ ] Fat Free Evaporated Milk 340 ml 
+- [x] Fat Free Evaporated Milk 340 ml 

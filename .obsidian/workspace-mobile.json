@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "019b09fdc19fb1ee",
+        "id": "735c30e6305784e8",
         "type": "tabs",
         "children": [
           {
-            "id": "9ed2f97fdefae64a",
+            "id": "6940d763d4bf7122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/02 - Recipes/16-08-25 1444 - Honey Garlic Chicken Mac & Cheese.md",
-                "mode": "source",
+                "file": "05 - Fleeting/Shopping List.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "16-08-25 1444 - Honey Garlic Chicken Mac & Cheese"
+              "title": "Shopping List"
             }
           }
         ]
@@ -181,17 +181,17 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "timelines-revamped:Insert Timeline Event": false,
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
       "zk-prefixer:Create new unique note": false,
       "templater-obsidian:Templater": false,
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "switcher:Open quick switcher": false,
@@ -202,13 +202,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffe39070e6e3168f",
+  "active": "6940d763d4bf7122",
   "lastOpenFiles": [
-    "05 - Fleeting/20-08-25 2110 - Bowl weights.md",
+    "04 - Permanent/02 - Recipes/17-08-25 1524 - Popcorn Chicken Potato Bowls.md",
+    "05 - Fleeting/Shopping List.md",
     "04 - Permanent/02 - Recipes/16-08-25 1444 - Honey Garlic Chicken Mac & Cheese.md",
+    "05 - Fleeting/20-08-25 2110 - Bowl weights.md",
     "Untitled.md",
     "04 - Permanent/02 - Recipes/13-08-25 2317 - Grilled Cheese Breakfast Burritos.md",
-    "05 - Fleeting/Shopping List.md",
     "04 - Permanent/02 - Recipes/24-05-25 1804 - Overnight Oats Base.md",
     "03 - Resources/11-07-25 1544 - of girlies.md",
     "03 - Resources/06-05-25 2235 - Quotes.md",
@@ -230,7 +231,6 @@
     "05 - Fleeting/11-07-25 2017 - shopping.md",
     "04 - Permanent/02 - Recipes/11-07-25 0738 - Beef Arayes.md",
     "05 - Fleeting/01-07-25 1352 - shopping list.md",
-    "04 - Permanent/02 - Recipes/22-05-25 1703 - Cinnamon Apple Snack.md",
     "99 - Meta/29-01-25 1522 - Gods Overview 20-04-2025 20.00.svg",
     "05 - Fleeting/01 - Drawings",
     "99 - Meta/AIB-Personal-Loan-Info-Sheet.pdf",
