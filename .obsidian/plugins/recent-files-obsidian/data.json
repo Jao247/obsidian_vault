@@ -5,6 +5,10 @@
       "path": "00 - Maps of Content/Recipies.base"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Shopping List",
       "path": "05 - Fleeting/Shopping List.md"
     },
@@ -19,6 +23,18 @@
     {
       "basename": "16-08-25 1444 - Honey Garlic Chicken Mac & Cheese",
       "path": "04 - Permanent/02 - Recipes/16-08-25 1444 - Honey Garlic Chicken Mac & Cheese.md"
+    },
+    {
+      "basename": "Shopping List",
+      "path": "05 - Fleeting/Shopping List.md"
+    },
+    {
+      "basename": "Scyrus",
+      "path": "00 - Maps of Content/Scyrus.base"
+    },
+    {
+      "basename": "17-08-25 1524 - Popcorn Chicken Potato Bowls",
+      "path": "04 - Permanent/02 - Recipes/17-08-25 1524 - Popcorn Chicken Potato Bowls.md"
     },
     {
       "basename": "29-10-2024",
