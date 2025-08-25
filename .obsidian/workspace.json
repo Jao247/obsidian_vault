@@ -11,13 +11,24 @@
             "id": "f2daa594e2e3d081",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/Recipies.base",
-                "viewName": "Cards"
+                "file": "06 - Daily Notes/02 - 2025/Day 237 25-08-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "Recipies"
+              "icon": "lucide-file",
+              "title": "Day 237 25-08-2025"
             }
           }
         ]
@@ -230,16 +241,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2daa594e2e3d081",
+  "active": "d4fb4c23676de8a7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "00 - Maps of Content/Recipies.base",
     "00 - Maps of Content/Scyrus.base",
-    "04 - Permanent/02 - Recipes/17-08-25 1524 - Popcorn Chicken Potato Bowls.md",
+    "06 - Daily Notes/02 - 2025/Day 237 25-08-2025.md",
+    "00 - Maps of Content/Recipies.base",
+    "04 - Permanent/02 - Recipes/24-05-25 1804 - Overnight Oats Base.md",
+    "04 - Permanent/02 - Recipes/11-07-25 0728 - Pita Bread.md",
+    "04 - Permanent/02 - Recipes/11-07-25 0738 - Beef Arayes.md",
+    "04 - Permanent/02 - Recipes/12-07-25 1430 - Cookie Dough.md",
+    "04 - Permanent/02 - Recipes/13-08-25 2317 - Grilled Cheese Breakfast Burritos.md",
+    "04 - Permanent/02 - Recipes/13-08-25 2330 - Protein Pita Bread.md",
+    "04 - Permanent/02 - Recipes/16-08-25 1430 - Low Calorie Biscoff Donuts.md",
+    "04 - Permanent/02 - Recipes/16-08-25 1435 - Biscoff Mug Cake.md",
     "04 - Permanent/02 - Recipes/16-08-25 1444 - Honey Garlic Chicken Mac & Cheese.md",
-    "05 - Fleeting/Shopping List.md",
-    "05 - Fleeting/Meal Plan.md",
+    "04 - Permanent/02 - Recipes/17-08-25 1531 - Popcorn Chicken M&C.md",
+    "04 - Permanent/02 - Recipes/17-08-25 1524 - Popcorn Chicken Potato Bowls.md",
+    "04 - Permanent/02 - Recipes/22-05-25 1703 - Cinnamon Apple Snack.md",
     "05 - Fleeting/20-08-25 2110 - Bowl weights.md",
+    "05 - Fleeting/Shopping List.md",
+    "conflict-files-obsidian-git.md",
+    "05 - Fleeting/Meal Plan.md",
     "02 - Areas/04 - Factorio/Factorio To-Do List Kanban.md",
     "02 - Areas/04 - Factorio/31-10-24 2206 - Speed Modules.md",
     "02 - Areas/04 - Factorio/04-11-24 1252 Train Logistics.md",
@@ -248,17 +270,6 @@
     "02 - Areas/04 - Factorio/02 - Fulgora/Bus System.md",
     "02 - Areas/04 - Factorio/02 - Fulgora/03-11-24 0205 - Fulgoran Exports.md",
     "02 - Areas/04 - Factorio/02 - Fulgora/31-10-24 2133 - Scrap Recycling.md",
-    "02 - Areas/04 - Factorio/01 - Nauvis/Red Chips.md",
-    "02 - Areas/04 - Factorio/01 - Nauvis/Green Chips v2.md",
-    "03 - Resources/01 - Japanese/28-04-25 1138 - Radical Flashcards.md",
-    "02 - Areas/01 - Japanese/28-04-25 1138 - Flashcards.md",
-    "01 - Projects/Scyrus (Magic World)/04 - Characters/22-02-25 1857 - Zerxire Sol-Abarrus.md",
-    "03 - Resources/01 - Japanese/28-04-25 1105 - Radicals.md",
-    "03 - Resources/01 - Japanese/23-03-25 1039 - Rendaku.md",
-    "03 - Resources/01 - Japanese/09-12-24 1441 て-form.md",
-    "03 - Resources/02 - Game Development/Animation Hit Detection.md",
-    "03 - Resources/02 - Game Development/Royal Skies - UE5 Animation Montage Collisions.md",
-    "03 - Resources/02 - Game Development/Projectiles - Set up.md",
     "99 - Meta/01 - Template/SRC_TEMPLATE - Drawing.svg",
     "04 - Permanent/02 - Recipes/~syncthing~16-08-25 1444 - Honey Garlic Chicken Mac & Cheese.md.tmp",
     "04 - Permanent/02 - Recipes/~syncthing~13-08-25 2317 - Grilled Cheese Breakfast Burritos.md.tmp",
