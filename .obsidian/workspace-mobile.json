@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Fleeting/Shopping List.md",
-                "mode": "preview",
+                "file": "05 - Fleeting/28-08-25 1426 - cryptography test.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shopping List"
+              "title": "28-08-25 1426 - cryptography test"
             }
           }
         ]
@@ -179,12 +179,23 @@
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
+      },
+      {
+        "id": "70fdb5da8c113564",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "spreadsheet",
+          "title": "Advanced Tables"
+        }
       }
     ],
     "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "timelines-revamped:Insert Timeline Event": false,
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
@@ -202,10 +213,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6940d763d4bf7122",
+  "active": "70fdb5da8c113564",
   "lastOpenFiles": [
-    "04 - Permanent/02 - Recipes/17-08-25 1524 - Popcorn Chicken Potato Bowls.md",
     "05 - Fleeting/Shopping List.md",
+    "05 - Fleeting/28-08-25 1426 - cryptography test.md",
+    "04 - Permanent/02 - Recipes/17-08-25 1524 - Popcorn Chicken Potato Bowls.md",
     "04 - Permanent/02 - Recipes/16-08-25 1444 - Honey Garlic Chicken Mac & Cheese.md",
     "05 - Fleeting/20-08-25 2110 - Bowl weights.md",
     "Untitled.md",
@@ -230,7 +242,6 @@
     "04 - Permanent/02 - Recipes/11-07-25 0728 - pita bread.md",
     "05 - Fleeting/11-07-25 2017 - shopping.md",
     "04 - Permanent/02 - Recipes/11-07-25 0738 - Beef Arayes.md",
-    "05 - Fleeting/01-07-25 1352 - shopping list.md",
     "99 - Meta/29-01-25 1522 - Gods Overview 20-04-2025 20.00.svg",
     "05 - Fleeting/01 - Drawings",
     "99 - Meta/AIB-Personal-Loan-Info-Sheet.pdf",

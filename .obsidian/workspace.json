@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e289a927aaf3a2c",
+        "id": "81ff8795a8c4dfbd",
         "type": "tabs",
         "children": [
           {
-            "id": "f2daa594e2e3d081",
+            "id": "46df4bfb176384a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily Notes/02 - 2025/Day 237 25-08-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Day 237 25-08-2025"
+              "title": "New tab"
             }
           }
         ]
@@ -222,6 +208,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
@@ -243,8 +230,8 @@
   },
   "active": "d4fb4c23676de8a7",
   "lastOpenFiles": [
-    "00 - Maps of Content/Scyrus.base",
     "06 - Daily Notes/02 - 2025/Day 237 25-08-2025.md",
+    "00 - Maps of Content/Scyrus.base",
     "00 - Maps of Content/Recipies.base",
     "04 - Permanent/02 - Recipes/24-05-25 1804 - Overnight Oats Base.md",
     "04 - Permanent/02 - Recipes/11-07-25 0728 - Pita Bread.md",
